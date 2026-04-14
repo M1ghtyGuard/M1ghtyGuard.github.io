@@ -1,0 +1,3021 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Bulbasaur",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Pokémon Plant Beast",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/0.png"
+			}
+		},
+		{
+			"name": "Ivysaur",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Pokémon Plant Beast",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/1.png"
+			}
+		},
+		{
+			"name": "Venusaur",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{G}",
+			"type": "Creature — Pokémon Plant Beast",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/2.png"
+			}
+		},
+		{
+			"name": "Mega Venusaur",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{G}{G}",
+			"type": "Mega Creature — Pokémon Plant Beast",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/3.png"
+			}
+		},
+		{
+			"name": "Gigantamax Venusaur",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}{G}{G}",
+			"type": "Gigantamax Creature — Pokémon Giant Plant Beast",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/4.png"
+			}
+		},
+		{
+			"name": "Charmander",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Pokémon Lizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/5.png"
+			}
+		},
+		{
+			"name": "Charmeleon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Pokémon Lizard",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/6.png"
+			}
+		},
+		{
+			"name": "Charizard",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Pokémon Lizard",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/7.png"
+			}
+		},
+		{
+			"name": "Mega Charizard X",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Mega Creature — Pokémon Lizard Dragon",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/8.png"
+			}
+		},
+		{
+			"name": "Mega Charizard Y",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Mega Creature — Pokémon Lizard",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/9.png"
+			}
+		},
+		{
+			"name": "Gigantamax Charizard",
+			"rarity": "mythic",
+			"mana_cost": "{6}{R}{R}{R}{R}",
+			"type": "Gigantamax Creature — Pokémon Giant Lizard",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/10.png"
+			}
+		},
+		{
+			"name": "Squirtle",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Pokémon Turtle",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/11.png"
+			}
+		},
+		{
+			"name": "Wartortle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Pokémon Turtle",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/12.png"
+			}
+		},
+		{
+			"name": "
+Blastoise",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Creature — Pokémon Turtle",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/13.png"
+			}
+		},
+		{
+			"name": "Mega Blastoise",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Mega Creature — Pokémon Turtle",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/14.png"
+			}
+		},
+		{
+			"name": "Gigantamax Blastoise",
+			"rarity": "mythic",
+			"mana_cost": "{6}{U}{U}{U}{U}",
+			"type": "Gigantamax Creature — Pokémon Giant Turtle",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/15.png"
+			}
+		},
+		{
+			"name": "Caterpie",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/16.png"
+			}
+		},
+		{
+			"name": "Metapod",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/17.png"
+			}
+		},
+		{
+			"name": "Butterfree",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/18.png"
+			}
+		},
+		{
+			"name": "Gigantamax Butterfree",
+			"rarity": "mythic",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Gigantamax Creature — Pokémon Giant Insect",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/19.png"
+			}
+		},
+		{
+			"name": "Weedle",
+			"rarity": "common",
+			"mana_cost": "{B/G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/20.png"
+			}
+		},
+		{
+			"name": "Kakuna",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/21.png"
+			}
+		},
+		{
+			"name": "Beedrill",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/22.png"
+			}
+		},
+		{
+			"name": "Mega Beedrill",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B/G}{B/G}{B/G}",
+			"type": "Mega Creature — Pokémon Insect",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/23.png"
+			}
+		},
+		{
+			"name": "Pidgey",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/24.png"
+			}
+		},
+		{
+			"name": "Pidgeotto",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/25.png"
+			}
+		},
+		{
+			"name": "Pidgeot",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/26.png"
+			}
+		},
+		{
+			"name": "Mega Pidgeot",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Mega Creature — Pokémon Bird",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/27.png"
+			}
+		},
+		{
+			"name": "Rattata",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Pokémon Mouse",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/28.png"
+			}
+		},
+		{
+			"name": "Alolan Rattata",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Creature — Pokémon Mouse",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/29.png"
+			}
+		},
+		{
+			"name": "Raticate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Pokémon Mouse",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/30.png"
+			}
+		},
+		{
+			"name": "Alolan Raticate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Creature — Pokémon Mouse",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/31.png"
+			}
+		},
+		{
+			"name": "Spearow",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/32.png"
+			}
+		},
+		{
+			"name": "Fearow",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/33.png"
+			}
+		},
+		{
+			"name": "Ekans",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Snake",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/34.png"
+			}
+		},
+		{
+			"name": "Arbok",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Pokémon Snake",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/35.png"
+			}
+		},
+		{
+			"name": "Pikachu",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pokémon Mouse Squirrel",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/36.png"
+			}
+		},
+		{
+			"name": "Gigantamax Pikachu",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{R}{R}",
+			"type": "Gigantamax Creature — Pokémon Giant Mouse Squirrel",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/37.png"
+			}
+		},
+		{
+			"name": "Raichu",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Pokémon Mouse Squirrel",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/38.png"
+			}
+		},
+		{
+			"name": "Alolan Raichu",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Creature — Pokémon Mouse Squirrel",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/39.png"
+			}
+		},
+		{
+			"name": "Mega Raichu X",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Mega Creature — Pokémon Mouse Squirrel",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/40.png"
+			}
+		},
+		{
+			"name": "Mega Raichu Y",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}{R}",
+			"type": "Mega Creature — Pokémon Mouse Squirrel",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/41.png"
+			}
+		},
+		{
+			"name": "Sandshrew",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Pokémon Mouse Armadillo",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/42.png"
+			}
+		},
+		{
+			"name": "Alolan Sandshrew",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Artifact Creature — Pokémon Mouse Armadillo",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/43.png"
+			}
+		},
+		{
+			"name": "Sandslash",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Pokémon Mouse Armadillo",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/44.png"
+			}
+		},
+		{
+			"name": "Alolan Sandslash",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Artifact Creature — Pokémon Mouse Armadillo",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/45.png"
+			}
+		},
+		{
+			"name": "Nidoran(Female)",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Rabbit",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/46.png"
+			}
+		},
+		{
+			"name": "Nidorina",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pokémon Rabbit",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/47.png"
+			}
+		},
+		{
+			"name": "Nidoqueen",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{G}",
+			"type": "Creature — Pokémon Rabbit Rhino",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/48.png"
+			}
+		},
+		{
+			"name": "Nidoran(Male)",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Rabbit",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/49.png"
+			}
+		},
+		{
+			"name": "Nidorino",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Pokémon Rabbit",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/50.png"
+			}
+		},
+		{
+			"name": "Nidoking",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{G}",
+			"type": "Creature — Pokémon Rabbit Rhino",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/51.png"
+			}
+		},
+		{
+			"name": "Clefairy",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Pokémon Fairy",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/52.png"
+			}
+		},
+		{
+			"name": "Clefable",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Pokémon Fairy",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/53.png"
+			}
+		},
+		{
+			"name": "Mega Clefable",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Mega Creature — Pokémon Fairy",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/54.png"
+			}
+		},
+		{
+			"name": "Vulpix",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/55.png"
+			}
+		},
+		{
+			"name": "Alolan Vulpix",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Creature — Pokémon Fox",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/56.png"
+			}
+		},
+		{
+			"name": "Ninetales",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/57.png"
+			}
+		},
+		{
+			"name": "Alolan Ninetales",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Snow Creature — Pokémon Fox Fairy",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/58.png"
+			}
+		},
+		{
+			"name": "Jigglypuff",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pokémon Fairy Balloon",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/59.png"
+			}
+		},
+		{
+			"name": "Wigglytuff",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Pokémon Fairy Balloon",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/60.png"
+			}
+		},
+		{
+			"name": "Zubat",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Bat",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/61.png"
+			}
+		},
+		{
+			"name": "Golbat",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Pokémon Bat",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/62.png"
+			}
+		},
+		{
+			"name": "Oddish",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/63.png"
+			}
+		},
+		{
+			"name": "Gloom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/64.png"
+			}
+		},
+		{
+			"name": "Vileplume",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/65.png"
+			}
+		},
+		{
+			"name": "Paras",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Pokémon Fungus Insect",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/66.png"
+			}
+		},
+		{
+			"name": "Parasect",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Pokémon Fungus Insect Zombie",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/67.png"
+			}
+		},
+		{
+			"name": "Venonat",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/68.png"
+			}
+		},
+		{
+			"name": "Venomoth",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/69.png"
+			}
+		},
+		{
+			"name": "Diglett",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Pokémon Mole",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/70.png"
+			}
+		},
+		{
+			"name": "Alolan Diglett",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Pokémon Mole",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/71.png"
+			}
+		},
+		{
+			"name": "Dugtrio",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Creature — Pokémon Mole",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/72.png"
+			}
+		},
+		{
+			"name": "Alolan Dugtrio",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Artifact Creature — Pokémon Mole",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/73.png"
+			}
+		},
+		{
+			"name": "Meowth",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pokémon Cat",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/74.png"
+			}
+		},
+		{
+			"name": "Alolan Meowth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Cat",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/75.png"
+			}
+		},
+		{
+			"name": "Galarian Meowth",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Pokémon Cat",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/76.png"
+			}
+		},
+		{
+			"name": "Gigantamax Meowth",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{W}{W}",
+			"type": "Gigantamax Creature — Pokémon Giant Cat",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/77.png"
+			}
+		},
+		{
+			"name": "Persian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Pokémon Cat",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/78.png"
+			}
+		},
+		{
+			"name": "Alolan Persian",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Pokémon Cat",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/79.png"
+			}
+		},
+		{
+			"name": "Psyduck",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/80.png"
+			}
+		},
+		{
+			"name": "Golduck",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/81.png"
+			}
+		},
+		{
+			"name": "Mankey",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pokémon Boar Ape",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/82.png"
+			}
+		},
+		{
+			"name": "Primeape",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pokémon Boar Ape",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/83.png"
+			}
+		},
+		{
+			"name": "Growlithe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pokémon Dog",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/84.png"
+			}
+		},
+		{
+			"name": "Hisuian Growlithe",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Pokémon Dog",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/85.png"
+			}
+		},
+		{
+			"name": "Arcanine",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Pokémon Dog",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/86.png"
+			}
+		},
+		{
+			"name": "Hisuian Arcanine",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{W}",
+			"type": "Creature — Pokémon Dog",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/87.png"
+			}
+		},
+		{
+			"name": "Poliwag",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Pokémon Tadpole",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/88.png"
+			}
+		},
+		{
+			"name": "Poliwhirl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Pokémon Tadpole",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/89.png"
+			}
+		},
+		{
+			"name": "Poliwrath",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{R}",
+			"type": "Creature — Pokémon Tadpole",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/90.png"
+			}
+		},
+		{
+			"name": "Abra",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/91.png"
+			}
+		},
+		{
+			"name": "Kadabra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/92.png"
+			}
+		},
+		{
+			"name": "Alakazam",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/93.png"
+			}
+		},
+		{
+			"name": "Mega Alakazam",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Mega Creature — Pokémon Fox",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/94.png"
+			}
+		},
+		{
+			"name": "Machop",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pokémon Fighter",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/95.png"
+			}
+		},
+		{
+			"name": "Machoke",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Pokémon Fighter",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/96.png"
+			}
+		},
+		{
+			"name": "Machamp",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Pokémon Fighter",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/97.png"
+			}
+		},
+		{
+			"name": "Gigantamax Machamp",
+			"rarity": "mythic",
+			"mana_cost": "{7}{R}{R}{R}",
+			"type": "Gigantamax Creature — Pokémon Giant Fighter",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/98.png"
+			}
+		},
+		{
+			"name": "Bellsprout",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/99.png"
+			}
+		},
+		{
+			"name": "Weepinbell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/100.png"
+			}
+		},
+		{
+			"name": "Victreebel",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{G}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/101.png"
+			}
+		},
+		{
+			"name": "Mega Victreebel",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{G}{G}",
+			"type": "Mega Creature — Pokémon Plant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/102.png"
+			}
+		},
+		{
+			"name": "Tentacool",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Pokémon Jellyfish",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/103.png"
+			}
+		},
+		{
+			"name": "Tentacruel",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Pokémon Jellyfish",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/104.png"
+			}
+		},
+		{
+			"name": "Geodude",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Pokémon Golem",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/105.png"
+			}
+		},
+		{
+			"name": "Alolan Geodude",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Pokémon Golem",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/106.png"
+			}
+		},
+		{
+			"name": "Graveler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Pokémon Golem",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/107.png"
+			}
+		},
+		{
+			"name": "Alolan Graveler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Pokémon Golem",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/108.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{W}",
+			"type": "Creature — Pokémon Golem Turtle",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/109.png"
+			}
+		},
+		{
+			"name": "Alolan Golem",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}{W}",
+			"type": "Creature — Pokémon Golem Turtle",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/110.png"
+			}
+		},
+		{
+			"name": "Ponyta",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Pokémon Horse",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/111.png"
+			}
+		},
+		{
+			"name": "Galarian Ponyta",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Pokémon Horse",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/112.png"
+			}
+		},
+		{
+			"name": "Rapidash",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pokémon Horse",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/113.png"
+			}
+		},
+		{
+			"name": "Galarian Rapidash",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{U}",
+			"type": "Creature — Pokémon Horse Fairy",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/114.png"
+			}
+		},
+		{
+			"name": "Slowpoke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Pokémon Salamander",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/115.png"
+			}
+		},
+		{
+			"name": "Galarian Slowpoke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Pokémon Salamander",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/116.png"
+			}
+		},
+		{
+			"name": "Slowbro",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Pokémon Salamander Crab",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/117.png"
+			}
+		},
+		{
+			"name": "Mega Slowbro",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Mega Creature — Pokémon Salamander Crab",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/118.png"
+			}
+		},
+		{
+			"name": "Galarian Slowbro",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Pokémon Salamander Crab",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/119.png"
+			}
+		},
+		{
+			"name": "Magnemite",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Pokémon Construct",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/120.png"
+			}
+		},
+		{
+			"name": "Magneton",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Artifact Creature — Pokémon Construct",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/121.png"
+			}
+		},
+		{
+			"name": "Farfetch'd",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/122.png"
+			}
+		},
+		{
+			"name": "Galarian Farfetch'd",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/123.png"
+			}
+		},
+		{
+			"name": "Doduo",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/124.png"
+			}
+		},
+		{
+			"name": "Dodrio",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Pokémon Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/125.png"
+			}
+		},
+		{
+			"name": "Seel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Pokémon Seal",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/126.png"
+			}
+		},
+		{
+			"name": "Dewgong",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Creature — Pokémon Seal",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/127.png"
+			}
+		},
+		{
+			"name": "Grimer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Ooze",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/128.png"
+			}
+		},
+		{
+			"name": "Alolan Grimer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Ooze",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/129.png"
+			}
+		},
+		{
+			"name": "Muk",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Pokémon Ooze",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/130.png"
+			}
+		},
+		{
+			"name": "Alolan Muk",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Pokémon Ooze",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/131.png"
+			}
+		},
+		{
+			"name": "Shellder",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Pokémon Oyster",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/132.png"
+			}
+		},
+		{
+			"name": "Cloyster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Creature — Pokémon Oyster",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/133.png"
+			}
+		},
+		{
+			"name": "Gastly",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Pokémon Spirit",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/134.png"
+			}
+		},
+		{
+			"name": "Haunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Pokémon Spirit",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/135.png"
+			}
+		},
+		{
+			"name": "Gengar",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Pokémon Spirit",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/136.png"
+			}
+		},
+		{
+			"name": "Mega Gengar",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Mega Creature — Pokémon Spirit",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/137.png"
+			}
+		},
+		{
+			"name": "Gigantamax Gengar",
+			"rarity": "mythic",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Gigantamax Creature — Pokémon Giant Spirit",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/138.png"
+			}
+		},
+		{
+			"name": "Onix",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Pokémon Snake",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/139.png"
+			}
+		},
+		{
+			"name": "Drowzee",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Pokémon Beast",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/140.png"
+			}
+		},
+		{
+			"name": "Hypno",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Pokémon Beast",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/141.png"
+			}
+		},
+		{
+			"name": "Krabby",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Pokémon Crab",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/142.png"
+			}
+		},
+		{
+			"name": "Kingler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Pokémon Crab",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/143.png"
+			}
+		},
+		{
+			"name": "Gigantamax Kingler",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Gigantamax Creature — Pokémon Giant Crab",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/144.png"
+			}
+		},
+		{
+			"name": "Voltorb",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Pokémon Construct",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/145.png"
+			}
+		},
+		{
+			"name": "Hisuian Voltorb",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Pokémon Construct Plant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/146.png"
+			}
+		},
+		{
+			"name": "Electrode",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pokémon Construct",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/147.png"
+			}
+		},
+		{
+			"name": "Hisuian Electrode",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Pokémon Construct Plant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/148.png"
+			}
+		},
+		{
+			"name": "Exeggcute",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Pokémon Plant Egg",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/149.png"
+			}
+		},
+		{
+			"name": "Exeggutor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/150.png"
+			}
+		},
+		{
+			"name": "Alolan Exeggutor",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Pokémon Plant Dragon",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/151.png"
+			}
+		},
+		{
+			"name": "Cubone",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pokémon Dinosaur",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/152.png"
+			}
+		},
+		{
+			"name": "Marowak",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Pokémon Dinosaur",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/153.png"
+			}
+		},
+		{
+			"name": "Alolan Marowak",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Pokémon Dinosaur",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/154.png"
+			}
+		},
+		{
+			"name": "Hitmonlee",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pokémon Fighter",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/155.png"
+			}
+		},
+		{
+			"name": "Hitmonchan",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Pokémon Fighter",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/156.png"
+			}
+		},
+		{
+			"name": "Lickitung",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Pokémon Frog Beast",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/157.png"
+			}
+		},
+		{
+			"name": "Koffing",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Pokémon Balloon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/158.png"
+			}
+		},
+		{
+			"name": "Weezing",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Pokémon Balloon",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/159.png"
+			}
+		},
+		{
+			"name": "Galarian Weezing",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Pokémon Balloon Fairy",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/160.png"
+			}
+		},
+		{
+			"name": "Rhyhorn",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Pokémon Rhino",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/161.png"
+			}
+		},
+		{
+			"name": "Rhydon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Pokémon Rhino",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/162.png"
+			}
+		},
+		{
+			"name": "Chansey",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Pokémon Egg",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/163.png"
+			}
+		},
+		{
+			"name": "Tangela",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Pokémon Plant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/164.png"
+			}
+		},
+		{
+			"name": "Kangaskhan",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Pokémon Kangaroo",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/165.png"
+			}
+		},
+		{
+			"name": "Mega Kangaskhan",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Mega Creature — Pokémon Kangaroo",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/166.png"
+			}
+		},
+		{
+			"name": "Horsea",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Pokémon Fish",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/167.png"
+			}
+		},
+		{
+			"name": "Seadra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Pokémon Fish",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/168.png"
+			}
+		},
+		{
+			"name": "Goldeen",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Pokémon Fish",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/169.png"
+			}
+		},
+		{
+			"name": "Seaking",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Pokémon Fish",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/170.png"
+			}
+		},
+		{
+			"name": "Staryu",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Pokémon Starfish",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/171.png"
+			}
+		},
+		{
+			"name": "Starmie",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Pokémon Starfish",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/172.png"
+			}
+		},
+		{
+			"name": "Mega Starmie",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Mega Creature — Pokémon Starfish",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/173.png"
+			}
+		},
+		{
+			"name": "Mr. Mime",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Pokémon Fairy Clown",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/174.png"
+			}
+		},
+		{
+			"name": "Galarian Mr. Mime",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Snow Creature — Pokémon Clown",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/175.png"
+			}
+		},
+		{
+			"name": "Scyther",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/176.png"
+			}
+		},
+		{
+			"name": "Jynx",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Snow Creature — Pokémon Wierd",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/177.png"
+			}
+		},
+		{
+			"name": "Electabuzz",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Pokémon Beast Cat",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/178.png"
+			}
+		},
+		{
+			"name": "Magmar",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Pokémon Elemental",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/179.png"
+			}
+		},
+		{
+			"name": "Pinsir",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Pokémon Insect",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/180.png"
+			}
+		},
+		{
+			"name": "Mega Pinsir",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Mega Creature — Pokémon Insect",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/181.png"
+			}
+		},
+		{
+			"name": "Tauros",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Pokémon Ox",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/182.png"
+			}
+		},
+		{
+			"name": "Paldean Tauros(Combat Breed)",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Pokémon Ox",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/183.png"
+			}
+		},
+		{
+			"name": "Paldean Tauros(Blaze Breed)",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Pokémon Ox",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/184.png"
+			}
+		},
+		{
+			"name": "Paldean Tauros(Aqua Breed)",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Pokémon Ox",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/185.png"
+			}
+		},
+		{
+			"name": "Magikarp",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Pokémon Fish",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/186.png"
+			}
+		},
+		{
+			"name": "Gyarados",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Pokémon Serpent",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/187.png"
+			}
+		},
+		{
+			"name": "Mega Gyarados",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{B}{B}",
+			"type": "Mega Creature — Pokémon Serpent",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/188.png"
+			}
+		},
+		{
+			"name": "Lapras",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Snow Creature — Pokémon Dinosaur",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/189.png"
+			}
+		},
+		{
+			"name": "Gigantamax Lapras",
+			"rarity": "mythic",
+			"mana_cost": "{7}{U}{U}{U}",
+			"type": "Gigantamax Snow Creature — Pokémon Giant Dinosaur",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/190.png"
+			}
+		},
+		{
+			"name": "Ditto",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Creature — Pokémon Shapeshifter",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/191.png"
+			}
+		},
+		{
+			"name": "Eevee",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/192.png"
+			}
+		},
+		{
+			"name": "Gigantamax Eevee",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{W}{W}",
+			"type": "Gigantamax Creature — Pokémon Giant Fox",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/193.png"
+			}
+		},
+		{
+			"name": "Vaporeon",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/194.png"
+			}
+		},
+		{
+			"name": "Jolteon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/195.png"
+			}
+		},
+		{
+			"name": "Flareon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Pokémon Fox",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/196.png"
+			}
+		},
+		{
+			"name": "Porygon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Pokémon Construct",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/197.png"
+			}
+		},
+		{
+			"name": "Helix Fossil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Kindred Artifact — Fossil",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/198.png"
+			}
+		},
+		{
+			"name": "Omanyte",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Pokémon Fossil Squid",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/199.png"
+			}
+		},
+		{
+			"name": "Omastar",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Pokémon Fossil Squid",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/200.png"
+			}
+		},
+		{
+			"name": "Dome Fossil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Kindred Artifact — Fossil",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/201.png"
+			}
+		},
+		{
+			"name": "Kabuto",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Pokémon Fossil Crab",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/202.png"
+			}
+		},
+		{
+			"name": "Kabutops",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Pokémon Fossil Crab",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/203.png"
+			}
+		},
+		{
+			"name": "Old Amber",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Kindred Artifact — Fossil",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/204.png"
+			}
+		},
+		{
+			"name": "Aerodactyl",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Pokémon Fossil Dinosaur",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/205.png"
+			}
+		},
+		{
+			"name": "Mega Aerodactyl",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Mega Creature — Pokémon Fossil Dinosaur",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/206.png"
+			}
+		},
+		{
+			"name": "Snorlax",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Creature — Pokémon Bear",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/207.png"
+			}
+		},
+		{
+			"name": "Gigantamax Snorlax",
+			"rarity": "mythic",
+			"mana_cost": "{7}{W}{W}{W}",
+			"type": "Gigantamax Creature — Pokémon Giant Bear",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/208.png"
+			}
+		},
+		{
+			"name": "Sitrus Berry",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food Berry",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/209.png"
+			}
+		},
+		{
+			"name": "Berry",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Token Artifact — Food Berry",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/210.png"
+			}
+		},
+		{
+			"name": "Haban Berry",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food Berry",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/211.png"
+			}
+		},
+		{
+			"name": "Articuno",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Snow Creature — Pokémon Bird",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/212.png"
+			}
+		},
+		{
+			"name": "Galarian Articuno",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Pokémon Bird",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/213.png"
+			}
+		},
+		{
+			"name": "Zapdos",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Pokémon Bird",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/214.png"
+			}
+		},
+		{
+			"name": "Galarian Zapdos",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Pokémon Bird",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/215.png"
+			}
+		},
+		{
+			"name": "Moltres",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Pokémon Bird",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/216.png"
+			}
+		},
+		{
+			"name": "Galarian Moltres",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Pokémon Bird",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/217.png"
+			}
+		},
+		{
+			"name": "Dratini",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Pokémon Dragon",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/218.png"
+			}
+		},
+		{
+			"name": "Dragonair",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Pokémon Dragon",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/219.png"
+			}
+		},
+		{
+			"name": "Dragonite",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}{R}",
+			"type": "Creature — Pokémon Dragon",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/220.png"
+			}
+		},
+		{
+			"name": "Mega Dragonite",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{R}{R}",
+			"type": "Mega Creature — Pokémon Dragon",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/221.png"
+			}
+		},
+		{
+			"name": "Mewtwo",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Pokémon",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/222.png"
+			}
+		},
+		{
+			"name": "Mega Mewtwo X",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{R}{R}",
+			"type": "Legendary Mega Creature — Pokémon",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/223.png"
+			}
+		},
+		{
+			"name": "Mega Mewtwo Y",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{U}{U}",
+			"type": "Legendary Mega Creature — Pokémon",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/224.png"
+			}
+		},
+		{
+			"name": "Mew",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Creature — Pokémon",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/225.png"
+			}
+		},
+		{
+			"name": "MissingNo.",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Creature — Pokémon Glitch Bird",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://M1ghtyGuard.github.io/sets/PKM-files/img/226.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Venusaur
+	1 Mega Venusaur
+	1 Gigantamax Venusaur
+	2 Charizard
+	1 Mega Charizard X
+	1 Mega Charizard Y
+	1 Gigantamax Charizard
+	2 
+Blastoise
+	1 Mega Blastoise
+	1 Gigantamax Blastoise
+	1 Gigantamax Butterfree
+	1 Mega Beedrill
+	2 Pidgeot
+	1 Mega Pidgeot
+	2 Arbok
+	1 Gigantamax Pikachu
+	2 Raichu
+	2 Alolan Raichu
+	1 Mega Raichu X
+	1 Mega Raichu Y
+	2 Nidoqueen
+	2 Nidoking
+	2 Clefairy
+	2 Clefable
+	1 Mega Clefable
+	2 Ninetales
+	2 Alolan Ninetales
+	2 Wigglytuff
+	2 Vileplume
+	2 Venomoth
+	2 Dugtrio
+	2 Alolan Dugtrio
+	1 Gigantamax Meowth
+	2 Golduck
+	2 Arcanine
+	2 Hisuian Arcanine
+	2 Poliwrath
+	2 Alakazam
+	1 Mega Alakazam
+	2 Machamp
+	1 Gigantamax Machamp
+	2 Victreebel
+	1 Mega Victreebel
+	2 Tentacruel
+	2 Golem
+	2 Alolan Golem
+	2 Rapidash
+	2 Galarian Rapidash
+	2 Slowbro
+	1 Mega Slowbro
+	2 Galarian Slowbro
+	2 Magneton
+	2 Muk
+	2 Alolan Muk
+	2 Gengar
+	1 Mega Gengar
+	1 Gigantamax Gengar
+	2 Hypno
+	1 Gigantamax Kingler
+	2 Electrode
+	2 Hisuian Electrode
+	2 Hitmonlee
+	2 Hitmonchan
+	2 Lickitung
+	2 Weezing
+	2 Galarian Weezing
+	2 Chansey
+	2 Kangaskhan
+	2 Mega Kangaskhan
+	2 Starmie
+	2 Mega Starmie
+	2 Mr. Mime
+	2 Galarian Mr. Mime
+	2 Scyther
+	2 Electabuzz
+	2 Pinsir
+	1 Mega Pinsir
+	2 Gyarados
+	1 Mega Gyarados
+	2 Lapras
+	1 Gigantamax Lapras
+	2 Ditto
+	1 Gigantamax Eevee
+	2 Vaporeon
+	2 Jolteon
+	2 Flareon
+	2 Omastar
+	2 Kabutops
+	2 Aerodactyl
+	1 Mega Aerodactyl
+	2 Snorlax
+	1 Gigantamax Snorlax
+	1 Articuno
+	1 Galarian Articuno
+	1 Zapdos
+	1 Galarian Zapdos
+	1 Moltres
+	1 Galarian Moltres
+	2 Dragonair
+	2 Dragonite
+	1 Mega Dragonite
+	1 Mewtwo
+	1 Mega Mewtwo X
+	1 Mega Mewtwo Y
+	1 Mew
+[uncommon(3)]
+	4 Ivysaur
+	4 Charmeleon
+	4 Wartortle
+	4 Butterfree
+	4 Beedrill
+	4 Pidgeotto
+	4 Raticate
+	4 Alolan Raticate
+	4 Fearow
+	4 Sandslash
+	4 Alolan Sandslash
+	4 Nidorina
+	4 Nidorino
+	4 Vulpix
+	4 Alolan Vulpix
+	4 Jigglypuff
+	4 Golbat
+	4 Gloom
+	4 Parasect
+	4 Persian
+	4 Alolan Persian
+	4 Primeape
+	4 Growlithe
+	4 Poliwhirl
+	4 Kadabra
+	4 Machoke
+	4 Weepinbell
+	4 Graveler
+	4 Alolan Graveler
+	4 Farfetch'd
+	4 Galarian Farfetch'd
+	4 Dodrio
+	4 Seel
+	4 Dewgong
+	4 Cloyster
+	4 Haunter
+	4 Kingler
+	4 Exeggutor
+	4 Alolan Exeggutor
+	4 Marowak
+	4 Alolan Marowak
+	4 Rhydon
+	4 Seadra
+	4 Seaking
+	4 Jynx
+	4 Magmar
+	4 Tauros
+	4 Paldean Tauros(Combat Breed)
+	4 Paldean Tauros(Blaze Breed)
+	4 Paldean Tauros(Aqua Breed)
+	4 Magikarp
+	4 Porygon
+	4 Helix Fossil
+	4 Omanyte
+	4 Dome Fossil
+	4 Kabuto
+	4 Old Amber
+	4 Dratini
+[common(6)]
+	8 Bulbasaur
+	8 Charmander
+	8 Squirtle
+	8 Caterpie
+	8 Metapod
+	8 Weedle
+	8 Kakuna
+	8 Pidgey
+	8 Rattata
+	8 Alolan Rattata
+	8 Spearow
+	8 Ekans
+	8 Pikachu
+	8 Sandshrew
+	8 Alolan Sandshrew
+	8 Nidoran(Female)
+	8 Nidoran(Male)
+	8 Zubat
+	8 Oddish
+	8 Paras
+	8 Venonat
+	8 Diglett
+	8 Alolan Diglett
+	8 Meowth
+	8 Alolan Meowth
+	8 Galarian Meowth
+	8 Psyduck
+	8 Mankey
+	8 Hisuian Growlithe
+	8 Poliwag
+	8 Abra
+	8 Machop
+	8 Bellsprout
+	8 Tentacool
+	8 Geodude
+	8 Alolan Geodude
+	8 Ponyta
+	8 Galarian Ponyta
+	8 Slowpoke
+	8 Galarian Slowpoke
+	8 Magnemite
+	8 Doduo
+	8 Grimer
+	8 Alolan Grimer
+	8 Shellder
+	8 Gastly
+	8 Onix
+	8 Drowzee
+	8 Krabby
+	8 Voltorb
+	8 Hisuian Voltorb
+	8 Exeggcute
+	8 Cubone
+	8 Koffing
+	8 Rhyhorn
+	8 Tangela
+	8 Horsea
+	8 Goldeen
+	8 Staryu
+	8 Eevee
+	8 Sitrus Berry
+	8 Haban Berry
+[common | masterpiece(1)]
+	8 Bulbasaur
+	8 Charmander
+	8 Squirtle
+	8 Caterpie
+	8 Metapod
+	8 Weedle
+	8 Kakuna
+	8 Pidgey
+	8 Rattata
+	8 Alolan Rattata
+	8 Spearow
+	8 Ekans
+	8 Pikachu
+	8 Sandshrew
+	8 Alolan Sandshrew
+	8 Nidoran(Female)
+	8 Nidoran(Male)
+	8 Zubat
+	8 Oddish
+	8 Paras
+	8 Venonat
+	8 Diglett
+	8 Alolan Diglett
+	8 Meowth
+	8 Alolan Meowth
+	8 Galarian Meowth
+	8 Psyduck
+	8 Mankey
+	8 Hisuian Growlithe
+	8 Poliwag
+	8 Abra
+	8 Machop
+	8 Bellsprout
+	8 Tentacool
+	8 Geodude
+	8 Alolan Geodude
+	8 Ponyta
+	8 Galarian Ponyta
+	8 Slowpoke
+	8 Galarian Slowpoke
+	8 Magnemite
+	8 Doduo
+	8 Grimer
+	8 Alolan Grimer
+	8 Shellder
+	8 Gastly
+	8 Onix
+	8 Drowzee
+	8 Krabby
+	8 Voltorb
+	8 Hisuian Voltorb
+	8 Exeggcute
+	8 Cubone
+	8 Koffing
+	8 Rhyhorn
+	8 Tangela
+	8 Horsea
+	8 Goldeen
+	8 Staryu
+	8 Eevee
+	8 Sitrus Berry
+	8 Haban Berry
+[foil(1)]
+	12 Bulbasaur
+	6 Ivysaur
+	2 Venusaur
+	1 Mega Venusaur
+	1 Gigantamax Venusaur
+	12 Charmander
+	6 Charmeleon
+	2 Charizard
+	1 Mega Charizard X
+	1 Mega Charizard Y
+	1 Gigantamax Charizard
+	12 Squirtle
+	6 Wartortle
+	2 
+Blastoise
+	1 Mega Blastoise
+	1 Gigantamax Blastoise
+	12 Caterpie
+	12 Metapod
+	6 Butterfree
+	1 Gigantamax Butterfree
+	12 Weedle
+	12 Kakuna
+	6 Beedrill
+	1 Mega Beedrill
+	12 Pidgey
+	6 Pidgeotto
+	2 Pidgeot
+	1 Mega Pidgeot
+	12 Rattata
+	12 Alolan Rattata
+	6 Raticate
+	6 Alolan Raticate
+	12 Spearow
+	6 Fearow
+	12 Ekans
+	2 Arbok
+	12 Pikachu
+	1 Gigantamax Pikachu
+	2 Raichu
+	2 Alolan Raichu
+	1 Mega Raichu X
+	1 Mega Raichu Y
+	12 Sandshrew
+	12 Alolan Sandshrew
+	6 Sandslash
+	6 Alolan Sandslash
+	12 Nidoran(Female)
+	6 Nidorina
+	2 Nidoqueen
+	12 Nidoran(Male)
+	6 Nidorino
+	2 Nidoking
+	2 Clefairy
+	2 Clefable
+	1 Mega Clefable
+	6 Vulpix
+	6 Alolan Vulpix
+	2 Ninetales
+	2 Alolan Ninetales
+	6 Jigglypuff
+	2 Wigglytuff
+	12 Zubat
+	6 Golbat
+	12 Oddish
+	6 Gloom
+	2 Vileplume
+	12 Paras
+	6 Parasect
+	12 Venonat
+	2 Venomoth
+	12 Diglett
+	12 Alolan Diglett
+	2 Dugtrio
+	2 Alolan Dugtrio
+	12 Meowth
+	12 Alolan Meowth
+	12 Galarian Meowth
+	1 Gigantamax Meowth
+	6 Persian
+	6 Alolan Persian
+	12 Psyduck
+	2 Golduck
+	12 Mankey
+	6 Primeape
+	6 Growlithe
+	12 Hisuian Growlithe
+	2 Arcanine
+	2 Hisuian Arcanine
+	12 Poliwag
+	6 Poliwhirl
+	2 Poliwrath
+	12 Abra
+	6 Kadabra
+	2 Alakazam
+	1 Mega Alakazam
+	12 Machop
+	6 Machoke
+	2 Machamp
+	1 Gigantamax Machamp
+	12 Bellsprout
+	6 Weepinbell
+	2 Victreebel
+	1 Mega Victreebel
+	12 Tentacool
+	2 Tentacruel
+	12 Geodude
+	12 Alolan Geodude
+	6 Graveler
+	6 Alolan Graveler
+	2 Golem
+	2 Alolan Golem
+	12 Ponyta
+	12 Galarian Ponyta
+	2 Rapidash
+	2 Galarian Rapidash
+	12 Slowpoke
+	12 Galarian Slowpoke
+	2 Slowbro
+	1 Mega Slowbro
+	2 Galarian Slowbro
+	12 Magnemite
+	2 Magneton
+	6 Farfetch'd
+	6 Galarian Farfetch'd
+	12 Doduo
+	6 Dodrio
+	6 Seel
+	6 Dewgong
+	12 Grimer
+	12 Alolan Grimer
+	2 Muk
+	2 Alolan Muk
+	12 Shellder
+	6 Cloyster
+	12 Gastly
+	6 Haunter
+	2 Gengar
+	1 Mega Gengar
+	1 Gigantamax Gengar
+	12 Onix
+	12 Drowzee
+	2 Hypno
+	12 Krabby
+	6 Kingler
+	1 Gigantamax Kingler
+	12 Voltorb
+	12 Hisuian Voltorb
+	2 Electrode
+	2 Hisuian Electrode
+	12 Exeggcute
+	6 Exeggutor
+	6 Alolan Exeggutor
+	12 Cubone
+	6 Marowak
+	6 Alolan Marowak
+	2 Hitmonlee
+	2 Hitmonchan
+	2 Lickitung
+	12 Koffing
+	2 Weezing
+	2 Galarian Weezing
+	12 Rhyhorn
+	6 Rhydon
+	2 Chansey
+	12 Tangela
+	2 Kangaskhan
+	2 Mega Kangaskhan
+	12 Horsea
+	6 Seadra
+	12 Goldeen
+	6 Seaking
+	12 Staryu
+	2 Starmie
+	2 Mega Starmie
+	2 Mr. Mime
+	2 Galarian Mr. Mime
+	2 Scyther
+	6 Jynx
+	2 Electabuzz
+	6 Magmar
+	2 Pinsir
+	1 Mega Pinsir
+	6 Tauros
+	6 Paldean Tauros(Combat Breed)
+	6 Paldean Tauros(Blaze Breed)
+	6 Paldean Tauros(Aqua Breed)
+	6 Magikarp
+	2 Gyarados
+	1 Mega Gyarados
+	2 Lapras
+	1 Gigantamax Lapras
+	2 Ditto
+	12 Eevee
+	1 Gigantamax Eevee
+	2 Vaporeon
+	2 Jolteon
+	2 Flareon
+	6 Porygon
+	6 Helix Fossil
+	6 Omanyte
+	2 Omastar
+	6 Dome Fossil
+	6 Kabuto
+	2 Kabutops
+	6 Old Amber
+	2 Aerodactyl
+	1 Mega Aerodactyl
+	2 Snorlax
+	1 Gigantamax Snorlax
+	12 Sitrus Berry
+	12 Haban Berry
+	1 Articuno
+	1 Galarian Articuno
+	1 Zapdos
+	1 Galarian Zapdos
+	1 Moltres
+	1 Galarian Moltres
+	6 Dratini
+	2 Dragonair
+	2 Dragonite
+	1 Mega Dragonite
+	1 Mewtwo
+	1 Mega Mewtwo X
+	1 Mega Mewtwo Y
+	1 Mew
+[wildcard(1)]
+	6 Bulbasaur
+	15 Ivysaur
+	7 Venusaur
+	4 Mega Venusaur
+	4 Gigantamax Venusaur
+	6 Charmander
+	15 Charmeleon
+	7 Charizard
+	4 Mega Charizard X
+	4 Mega Charizard Y
+	4 Gigantamax Charizard
+	6 Squirtle
+	15 Wartortle
+	7 
+Blastoise
+	4 Mega Blastoise
+	4 Gigantamax Blastoise
+	6 Caterpie
+	6 Metapod
+	15 Butterfree
+	4 Gigantamax Butterfree
+	6 Weedle
+	6 Kakuna
+	15 Beedrill
+	4 Mega Beedrill
+	6 Pidgey
+	15 Pidgeotto
+	7 Pidgeot
+	4 Mega Pidgeot
+	6 Rattata
+	6 Alolan Rattata
+	15 Raticate
+	15 Alolan Raticate
+	6 Spearow
+	15 Fearow
+	6 Ekans
+	7 Arbok
+	6 Pikachu
+	4 Gigantamax Pikachu
+	7 Raichu
+	7 Alolan Raichu
+	4 Mega Raichu X
+	4 Mega Raichu Y
+	6 Sandshrew
+	6 Alolan Sandshrew
+	15 Sandslash
+	15 Alolan Sandslash
+	6 Nidoran(Female)
+	15 Nidorina
+	7 Nidoqueen
+	6 Nidoran(Male)
+	15 Nidorino
+	7 Nidoking
+	7 Clefairy
+	7 Clefable
+	4 Mega Clefable
+	15 Vulpix
+	15 Alolan Vulpix
+	7 Ninetales
+	7 Alolan Ninetales
+	15 Jigglypuff
+	7 Wigglytuff
+	6 Zubat
+	15 Golbat
+	6 Oddish
+	15 Gloom
+	7 Vileplume
+	6 Paras
+	15 Parasect
+	6 Venonat
+	7 Venomoth
+	6 Diglett
+	6 Alolan Diglett
+	7 Dugtrio
+	7 Alolan Dugtrio
+	6 Meowth
+	6 Alolan Meowth
+	6 Galarian Meowth
+	4 Gigantamax Meowth
+	15 Persian
+	15 Alolan Persian
+	6 Psyduck
+	7 Golduck
+	6 Mankey
+	15 Primeape
+	15 Growlithe
+	6 Hisuian Growlithe
+	7 Arcanine
+	7 Hisuian Arcanine
+	6 Poliwag
+	15 Poliwhirl
+	7 Poliwrath
+	6 Abra
+	15 Kadabra
+	7 Alakazam
+	4 Mega Alakazam
+	6 Machop
+	15 Machoke
+	7 Machamp
+	4 Gigantamax Machamp
+	6 Bellsprout
+	15 Weepinbell
+	7 Victreebel
+	4 Mega Victreebel
+	6 Tentacool
+	7 Tentacruel
+	6 Geodude
+	6 Alolan Geodude
+	15 Graveler
+	15 Alolan Graveler
+	7 Golem
+	7 Alolan Golem
+	6 Ponyta
+	6 Galarian Ponyta
+	7 Rapidash
+	7 Galarian Rapidash
+	6 Slowpoke
+	6 Galarian Slowpoke
+	7 Slowbro
+	4 Mega Slowbro
+	7 Galarian Slowbro
+	6 Magnemite
+	7 Magneton
+	15 Farfetch'd
+	15 Galarian Farfetch'd
+	6 Doduo
+	15 Dodrio
+	15 Seel
+	15 Dewgong
+	6 Grimer
+	6 Alolan Grimer
+	7 Muk
+	7 Alolan Muk
+	6 Shellder
+	15 Cloyster
+	6 Gastly
+	15 Haunter
+	7 Gengar
+	4 Mega Gengar
+	4 Gigantamax Gengar
+	6 Onix
+	6 Drowzee
+	7 Hypno
+	6 Krabby
+	15 Kingler
+	4 Gigantamax Kingler
+	6 Voltorb
+	6 Hisuian Voltorb
+	7 Electrode
+	7 Hisuian Electrode
+	6 Exeggcute
+	15 Exeggutor
+	15 Alolan Exeggutor
+	6 Cubone
+	15 Marowak
+	15 Alolan Marowak
+	7 Hitmonlee
+	7 Hitmonchan
+	7 Lickitung
+	6 Koffing
+	7 Weezing
+	7 Galarian Weezing
+	6 Rhyhorn
+	15 Rhydon
+	7 Chansey
+	6 Tangela
+	7 Kangaskhan
+	7 Mega Kangaskhan
+	6 Horsea
+	15 Seadra
+	6 Goldeen
+	15 Seaking
+	6 Staryu
+	7 Starmie
+	7 Mega Starmie
+	7 Mr. Mime
+	7 Galarian Mr. Mime
+	7 Scyther
+	15 Jynx
+	7 Electabuzz
+	15 Magmar
+	7 Pinsir
+	4 Mega Pinsir
+	15 Tauros
+	15 Paldean Tauros(Combat Breed)
+	15 Paldean Tauros(Blaze Breed)
+	15 Paldean Tauros(Aqua Breed)
+	15 Magikarp
+	7 Gyarados
+	4 Mega Gyarados
+	7 Lapras
+	4 Gigantamax Lapras
+	7 Ditto
+	6 Eevee
+	4 Gigantamax Eevee
+	7 Vaporeon
+	7 Jolteon
+	7 Flareon
+	15 Porygon
+	15 Helix Fossil
+	15 Omanyte
+	7 Omastar
+	15 Dome Fossil
+	15 Kabuto
+	7 Kabutops
+	15 Old Amber
+	7 Aerodactyl
+	4 Mega Aerodactyl
+	7 Snorlax
+	4 Gigantamax Snorlax
+	6 Sitrus Berry
+	6 Haban Berry
+	4 Articuno
+	4 Galarian Articuno
+	4 Zapdos
+	4 Galarian Zapdos
+	4 Moltres
+	4 Galarian Moltres
+	15 Dratini
+	7 Dragonair
+	7 Dragonite
+	4 Mega Dragonite
+	4 Mewtwo
+	4 Mega Mewtwo X
+	4 Mega Mewtwo Y
+	4 Mew
